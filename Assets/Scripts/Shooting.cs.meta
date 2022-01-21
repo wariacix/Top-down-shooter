@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 34302f73f8124a04eaea1720395ce0b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePoint: {instanceID: 0}
+  - bulletPrefab: {fileID: 4131132596405647706, guid: 75883dd02e1e1a248adc391bbffe3af6,
+      type: 3}
+  - spr: {instanceID: 0}
+  - spritePistol: {fileID: 21300000, guid: 4d7dd6687addbf9469af496651853deb, type: 3}
+  - spriteSMG: {fileID: 21300000, guid: 985f14f9fc0f76f4abca054680cc923b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
